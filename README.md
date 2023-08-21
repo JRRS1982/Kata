@@ -4,14 +4,16 @@ This repository holds Kata that i collected and completed on the Leetcode traini
 
 The below curated list comes from [teamblind.com](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) and i hope to work my way through it.
 
+If you are lucky enough to have been granted access to my template repo, you will find the kata template I am replicating for each test [here](https://github.com/JRRS1982/Templates/tree/main/node-ts-jest-kata)
+
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Maximum Product Sub Array](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
+- [] [Maximum Product Sub Array](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
