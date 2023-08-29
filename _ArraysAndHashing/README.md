@@ -4,9 +4,9 @@ This is a repository of (LeetCode) Kata associated to Arrays and Hashing Algorit
 
 - [x] Duplicate Zeros
 - [x] Contains Duplicate
-- [] Valid Anagram
-- [x] Two SUm
-- [] Group Anagrams
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] Two Sum
+- [] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [] Top K Frequent Elements
 - [] Product of Array Except Self
 - [] Valid Sudoku
