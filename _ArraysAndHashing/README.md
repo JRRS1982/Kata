@@ -8,7 +8,7 @@ This is a repository of (LeetCode) Kata associated to Arrays and Hashing Algorit
 - [x] Two Sum
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] Top K Frequent Elements
-- [] Product of Array Except Self
-- [] Valid Sudoku
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [] Encode and Decode Strings
 - [] Longest Consecutive Sequence
