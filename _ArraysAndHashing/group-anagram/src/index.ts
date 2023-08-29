@@ -16,7 +16,7 @@ function groupAnagram(params: string[]): string[][] {
 
   for (let index = 0; index < params.length; index++) {
     const current = params[index];
-    // sort the string at this index of the params alphabetically and use it as a key
+    // sort the string at this index of the params alphabetically and use it as a key i.e { aet: ["eat", "tea", "ate"]}
     const sorted = sortAlphabets(current);
     if (map[sorted]) {
       // if the key exists, push the current unsorted string to that hash map key

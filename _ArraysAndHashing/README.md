@@ -7,7 +7,7 @@ This is a repository of (LeetCode) Kata associated to Arrays and Hashing Algorit
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] Two Sum
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [] Top K Frequent Elements
+- [x] Top K Frequent Elements
 - [] Product of Array Except Self
 - [] Valid Sudoku
 - [] Encode and Decode Strings
