@@ -2,6 +2,7 @@
 
 This is a repository of (LeetCode) Kata associated to Arrays and Hashing Algorithms
 
+- [x] Duplicate Zeros
 - [x] Contains Duplicate
 - [] Valid Anagram
 - [x] Two SUm
