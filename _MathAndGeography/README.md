@@ -10,3 +10,4 @@ This is a repository of (LeetCode) Kata associated to Math And Geography Algorit
 - [] Pow(x,n)
 - [] Multiply Strings
 - [] Detect Squares
+- [x] [FizzBuzz](https://leetcode.com/problems/fizz-buzz/description/)
