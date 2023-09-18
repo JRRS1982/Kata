@@ -11,4 +11,4 @@ This is a repository of (LeetCode) Kata associated to Arrays and Hashing Algorit
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [] Encode and Decode Strings
-- [] Longest Consecutive Sequence
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
