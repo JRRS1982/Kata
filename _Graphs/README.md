@@ -2,6 +2,8 @@
 
 This is a repository of (LeetCode) Kata associated to Graph Algorithms
 
+An abstract notation that represents the connection between all pairs of objects.
+
 - [] Number of Islands
 - [] Clone Graph
 - [] Max Area of Island
