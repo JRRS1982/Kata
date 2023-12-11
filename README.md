@@ -4,7 +4,7 @@ This repository holds Kata that i collected and completed on the Leetcode traini
 
 The below curated list comes from [teamblind.com](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) and i hope to work my way through it.
 
-If you are lucky enough to have been granted access to my template repo, you will find the kata template I am replicating for each test [here](https://github.com/JRRS1982/Templates/tree/main/node-ts-jest-kata)
+If you  have been granted access to my template repo, you will find the kata template I am replicating for each test [here](https://github.com/JRRS1982/Templates/tree/main/node-ts-jest-kata)
 
 ## Array
 
@@ -13,7 +13,7 @@ If you are lucky enough to have been granted access to my template repo, you wil
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
-- [] [Maximum Product Sub Array](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] [Maximum Product Sub Array](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
@@ -97,8 +97,8 @@ If you are lucky enough to have been granted access to my template repo, you wil
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings Leetcode Premium]( https://leetcode.com/problems/encode-and-decode-strings/)

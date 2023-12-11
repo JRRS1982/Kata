@@ -8,7 +8,7 @@ This is a repository of (LeetCode) Kata associated to Two Pointer Algorithms
 - [x] [Two Sum II Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/>)
 - [x] [3Sum](https://leetcode.com/problems/3sum/description/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [] Trapping Rain Water
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 ## Extensions
 
