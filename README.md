@@ -129,3 +129,35 @@ If you  have been granted access to my template repo, you will find the kata tem
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+
+## PEDAC
+
+### Process (understand) the problem
+
+- Read the description
+- Identify inputs / outputs
+- Identify rules / requirements
+- Ask clarifying questions
+- Examine all examples
+
+### Example test cases
+
+- Understand how the input translates to the output
+- Identify edge cases: i.e. do we need to handle an empty input?
+- Create test cases and confirm outputs
+
+### Data Structures
+
+- What kind of data is being dealt with? Strings? Arrays? Objects? Big Numbers etc
+
+### Algorithm
+
+- Step by step process that take you from input to output
+- Handles edge cases and valid example inputs
+- Code will depend on the algorithm
+
+### Code
+
+- Use everything you've gathered so far to write the code
+- If there are errors in the output, adjust your algorithm before looking at the code
