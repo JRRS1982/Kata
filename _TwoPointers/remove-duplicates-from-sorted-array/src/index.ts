@@ -18,3 +18,5 @@ export const removeDuplicates = (numbers: Array<number | null>): number => {
 
   return startLength - difference;
 };
+
+export default removeDuplicates;

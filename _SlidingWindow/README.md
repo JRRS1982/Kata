@@ -13,3 +13,9 @@ Also
 
 - [x] Check N and It's Double Exist
 - [x] Maximum SubArray
+
+## What
+
+Think of it like a window sliding across an number of iterable elements.
+
+It is a sub-array of elements within a larger array, where the window is analysed against a given constraint.

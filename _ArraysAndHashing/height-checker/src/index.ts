@@ -4,9 +4,8 @@ const heightChecker = (heights: number[]) => {
   for (let index = 0; index < heights.length; index++) {
     if(ordered[index] !== heights[index]) {
       count++;
-    } 
+    }
   }
-  console.log(ordered, heights);
   
   return count;
 }
