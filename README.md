@@ -11,7 +11,7 @@ The list includes a lot of the [teamblind.com](https://www.teamblind.com/post/Ne
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [x] Duplicate Zeros
+- [x] [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -19,9 +19,7 @@ The list includes a lot of the [teamblind.com](https://www.teamblind.com/post/Ne
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [x] [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Encode and Decode Strings Leetcode Premium]( https://leetcode.com/problems/encode-and-decode-strings/)
-- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 
@@ -69,10 +67,10 @@ Think of it like a window sliding across and array of elements, where the window
 
 ## Binary Search
 
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
-- [ ] Find Minimum In Rotated Sorted Array
 - [ ] Search In Rotated Sorted Array
 - [ ] Time Based Key Value Store
 - [ ] Median of Two Sorted Arrays
