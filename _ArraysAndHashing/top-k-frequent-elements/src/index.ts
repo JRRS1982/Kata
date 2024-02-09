@@ -24,4 +24,6 @@ function topKFrequent(nums: number[], k: number): number[] {
     .slice(-k); // select top k elements
 }
 
+// TODO implement this as a heap as well.
+
 export default topKFrequent;

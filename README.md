@@ -9,41 +9,117 @@ If you  have been granted access to my template repo, you will find the kata tem
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [x] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Maximum Product Sub Array](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] Duplicate Zeros
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [x] [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [Encode and Decode Strings Leetcode Premium]( https://leetcode.com/problems/encode-and-decode-strings/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+## Sliding Window
+
+Think of it like a window sliding across and array of elements, where the window is analysed against a given constraint, i.e. a sub array of elements within a larger array.
+
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] Check N and It's Double Exist
+- [x] Maximum SubArray
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] Permutation In String
+- [ ] Sliding Window Maximum
+
+### Greedy
+
+- [x] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
+- [ ] Jump Game 2
+- [ ] Gas Station
+- [ ] Hand Of Straights
+- [ ] Merge Triplets To Form Target Triplet
+- [ ] Partition Labels
+- [ ] Valid Parenthesis String
 
 ---
 
-## Binary
+### Backtracking
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [ ] Subsets
+- [ ] [Combination Sum](<https://leetcode.com/problems/combination-sum/>)
+- [ ] Permutations
+- [ ] Subsets 2
+- [ ] Combination Sum 2
+- [ ] Palindrome Partitioning
+- [ ] Letter Combination of a Phone Number
+- [ ] N Queens
+
+---
+
+## Binary Search
+
+- [ ] Binary Search
+- [ ] Search a 2D Matrix
+- [ ] Koko Eating Bananas
+- [ ] Find Minimum In Rotated Sorted Array
+- [ ] Search In Rotated Sorted Array
+- [ ] Time Based Key Value Store
+- [ ] Median of Two Sorted Arrays
+
+---
+
+## Bit Manipulation
+
+- [ ] Single Number
+- [ ] Number of 1 Bits
+- [ ] Counting Bits
+- [ ] Reverse Bits
+- [ ] Missing Number
+- [ ] Sum of To Integers
+- [ ] Reverse Integer
 
 ---
 
 ## Dynamic Programming
 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] Min Cost Climbing Stairs
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+- [ ] [Combination Sum 4](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+
+### 1D Dynamic Programming
+
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [ ] [Maximum Product Sub Array](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [ ] Partition Equal Subset Sum
+
+### 2D Dynamic Programming
+
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] [Best Time To Buy And Sell Stock With A Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)
+- [ ] [Coin Change 2](https://leetcode.com/problems/coin-change-ii)
+- [ ] Target Sum
+- [ ] Interleaving String
+- [ ] Longest Increasing Path In A Matrix
+- [ ] Distinct Subsequence
+- [ ] Edit Distance
+- [ ] Burst Balloons
+- [ ] Regular Expression Matching
 
 ---
 
@@ -54,9 +130,24 @@ If you  have been granted access to my template repo, you will find the kata tem
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ ] [Alien Dictionary Leetcode Premium](https://leetcode.com/problems/alien-dictionary/)
 - [ ] [Graph Valid Tree Leetcode Premium](https://leetcode.com/problems/graph-valid-tree/)
 - [ ] [Number of Connected Components in an Undirected Graph Leetcode Premium](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [ ] Max Area of Island
+- [ ] Surrounded Regions
+- [ ] Rotting Oranges
+- [ ] Walls and Gates
+- [ ] Course Schedule 2
+- [ ] Redundant Connection
+- [ ] Word Ladder
+
+### Advanced Graph
+
+- [ ] Reconstruct Itinerary
+- [ ] Min Cost To Connect All Points
+- [ ] Network Delay Time
+- [ ] Swim In Rising Water
+- [ ] Alien Dictionary
+- [ ] Cheapest Flights Within K Stops
 
 ---
 
@@ -67,6 +158,7 @@ If you  have been granted access to my template repo, you will find the kata tem
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms Leetcode Premium](https://leetcode.com/problems/meeting-rooms/)
 - [ ] [Meeting Rooms II Leetcode Premium](https://leetcode.com/problems/meeting-rooms-ii/)
+- [ ] Minimum Interval To Include Each Query
 
 ---
 
@@ -78,30 +170,47 @@ If you  have been granted access to my template repo, you will find the kata tem
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] Copy List With Random Pointer
+- [ ] Add Two Numbers
+- [ ] Linked List Cycle
+- [ ] Find The Duplicate Number
+- [ ] LRU Cache
 
 ---
 
-## Matrix
+## Math and Geometry
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] Fizzbuzz
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [ ] Happy Number
+- [ ] Plus One
+- [ ] Pow(x,n)
+- [ ] Multiply Strings
+- [ ] Detect Squares
 
 ---
 
-## String
+## Stack
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/description/)
+- [] Evaluate Reverse Polish Notation
+- [] Generate Parentheses
+- [] Daily Temperatures
+- [] Car Fleet
+- [] Largest Rectangle In Histogram
+
+## Two Pointers
+
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
-- [ ] [Encode and Decode Strings Leetcode Premium]( https://leetcode.com/problems/encode-and-decode-strings/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [x] [Two Sum II Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/>)
+- [x] [3Sum](https://leetcode.com/problems/3sum/description/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 ---
 
@@ -109,7 +218,7 @@ If you  have been granted access to my template repo, you will find the kata tem
 
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
@@ -118,18 +227,39 @@ If you  have been granted access to my template repo, you will find the kata tem
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+- [] Diameter of Binary Tree
+- [] Balanced Binary Tree
+- [] Binary Tree Right Side View
+- [] Count Good Nodes In Binary Tree
+
+### Tries
+
+- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [ ] [Word Search](https://leetcode.com/problems/word-search/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [ ] Design And Add Search Words Data
 
 ---
 
 ## Heap
 
+An advanced tree based data structure used primarily for sorting and implementing priority queues
+
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
+## Queue
+
+A linear structure with the first in, first out order. Imagine lining up for a ride, those at the front get on first.
+
+- [ ] Kth Largest Element In A Stream
+- [ ] Last Stone Weight
+- [ ] K Closest Points to Origin
+- [ ] Kth Largest Element In An Array
+- [ ] Task Scheduler
+- [ ] Design Twitter
+- [ ] Find Median From Data Stream
 
 ## PEDAC
 
