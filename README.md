@@ -1,10 +1,10 @@
 # Leet Code Solutions
 
-This repository holds Kata that i collected and completed on the Leetcode training platform.
-
-The below curated list comes from [teamblind.com](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) and i hope to work my way through it.
+This repository holds Kata that i have collected and completed on the Leetcode training platform. It has been useful to work on these kata locally as it allows me to group them and write test cases / notes.
 
 If you  have been granted access to my template repo, you will find the kata template I am replicating for each test [here](https://github.com/JRRS1982/Templates/tree/main/node-ts-jest-kata)
+
+The list includes a lot of the [teamblind.com](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) kata, and i hope to work my way through it.
 
 ## Array
 
@@ -25,6 +25,8 @@ If you  have been granted access to my template repo, you will find the kata tem
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 
+---
+
 ## Sliding Window
 
 Think of it like a window sliding across and array of elements, where the window is analysed against a given constraint, i.e. a sub array of elements within a larger array.
@@ -37,6 +39,8 @@ Think of it like a window sliding across and array of elements, where the window
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] Permutation In String
 - [ ] Sliding Window Maximum
+
+---
 
 ### Greedy
 
@@ -140,6 +144,8 @@ Think of it like a window sliding across and array of elements, where the window
 - [ ] Redundant Connection
 - [ ] Word Ladder
 
+---
+
 ### Advanced Graph
 
 - [ ] Reconstruct Itinerary
@@ -202,6 +208,8 @@ Think of it like a window sliding across and array of elements, where the window
 - [] Car Fleet
 - [] Largest Rectangle In Histogram
 
+---
+
 ## Two Pointers
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
@@ -228,10 +236,12 @@ Think of it like a window sliding across and array of elements, where the window
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
-- [] Diameter of Binary Tree
-- [] Balanced Binary Tree
-- [] Binary Tree Right Side View
-- [] Count Good Nodes In Binary Tree
+- [ ] Diameter of Binary Tree
+- [ ] Balanced Binary Tree
+- [ ] Binary Tree Right Side View
+- [ ] Count Good Nodes In Binary Tree
+
+---
 
 ### Tries
 
@@ -249,6 +259,8 @@ An advanced tree based data structure used primarily for sorting and implementin
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
+---
+
 ## Queue
 
 A linear structure with the first in, first out order. Imagine lining up for a ride, those at the front get on first.
@@ -262,6 +274,10 @@ A linear structure with the first in, first out order. Imagine lining up for a r
 - [ ] Find Median From Data Stream
 
 ## PEDAC
+
+This is a model for solving coding problems
+
+Process > Example > Data > Algo > Code
 
 ### Process (understand) the problem
 
@@ -283,8 +299,8 @@ A linear structure with the first in, first out order. Imagine lining up for a r
 
 ### Algorithm
 
-- Step by step process that take you from input to output
-- Handles edge cases and valid example inputs
+- Step by step a process that take you from input to output
+- Handle edge cases and valid example inputs
 - Code will depend on the algorithm
 
 ### Code
