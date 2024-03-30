@@ -66,13 +66,17 @@ Think of it like a window sliding across and array of elements, where the window
 
 ## Binary Search
 
+Binary search is a fast search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search parameter in half.
+
+<https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems>
+
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/description/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ] Binary Search
+- [ ] Koko Eating Bananas
+- [ ] Median of Two Sorted Arrays
 - [ ] Search a 2D Matrix
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] Koko Eating Bananas
 - [ ] Time Based Key Value Store
-- [ ] Median of Two Sorted Arrays
 
 ---
 
