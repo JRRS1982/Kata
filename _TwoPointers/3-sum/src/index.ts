@@ -1,3 +1,11 @@
+/**
+ * threeSum
+ * @param nums {number[]}
+ * @returns {number[][]}
+ * @description Using a two pointer to find all triplets in the array which gives the sum of zero. Iterate through a sorted array to find the two other elements that would make the sum of zero.
+ *
+ * Time complexity: O(n^2) as the outer loop runs for n times and the inner loop runs for n times so n^2
+ */
 const index = (nums: number[]) => {
   // sort the nums array
   nums.sort((a, b) => a - b);

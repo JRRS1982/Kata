@@ -1,6 +1,6 @@
-# Leet Code Solutions
+# Code Kata
 
-This repository holds Kata that i have collected and completed on the Leetcode training platform. It has been useful to work on these kata locally as it allows me to group them and write test cases / notes.
+This repository holds Kata that i have collected and completed on the Leetcode training platform. It has been useful to work on these kata locally as it allows me to group them and write test cases / store notes.
 
 If you  have been granted access to my template repo, you will find the kata template I am replicating for each test [here](https://github.com/JRRS1982/Templates/tree/main/node-ts-jest-kata)
 
@@ -8,7 +8,7 @@ The list includes a lot of the [teamblind.com](https://www.teamblind.com/post/Ne
 
 ## Array
 
-Algorithms that are associated with manipulating Arrays. Reduce, Map, Filter are your friends.
+Algorithms that are associated with manipulating Arrays. Reduce, Map, Filter are your friends here.
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
@@ -20,38 +20,12 @@ Algorithms that are associated with manipulating Arrays. Reduce, Map, Filter are
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-
----
-
-## Sliding Window
-
-Think of it like a window sliding across and array of elements, where the window is analysed against a given constraint, i.e. a sub array of elements within a larger array.
-
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [x] Check N and It's Double Exist
-- [x] Maximum SubArray
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] Permutation In String
-- [ ] Sliding Window Maximum
-
----
-
-### Greedy
-
-- [x] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
-- [ ] Jump Game 2
-- [ ] Gas Station
-- [ ] Hand Of Straights
-- [ ] Merge Triplets To Form Target Triplet
-- [ ] Partition Labels
-- [ ] Valid Parenthesis String
 
 ---
 
 ### Backtracking
+
+<https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/>
 
 - [ ] Subsets
 - [ ] [Combination Sum](<https://leetcode.com/problems/combination-sum/>)
@@ -82,6 +56,8 @@ Binary search is a fast search algorithm that finds the position of a target val
 
 ## Bit Manipulation
 
+<https://leetcode.com/problems/sum-of-two-integers/solutions/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/>
+
 - [ ] Single Number
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
@@ -94,14 +70,16 @@ Binary search is a fast search algorithm that finds the position of a target val
 
 ## Dynamic Programming
 
+<https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns>
+
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] Min Cost Climbing Stairs
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Combination Sum 4](https://leetcode.com/problems/combination-sum-iv/)
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] Min Cost Climbing Stairs
 
 ### 1D Dynamic Programming
 
@@ -126,9 +104,17 @@ Binary search is a fast search algorithm that finds the position of a target val
 - [ ] Burst Balloons
 - [ ] Regular Expression Matching
 
+### Recursion
+
+Recursion is the backbone of dynamic programming and backtracking.
+
+<https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion>
+
 ---
 
 ## Graph
+
+<https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions>
 
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
@@ -155,6 +141,29 @@ Binary search is a fast search algorithm that finds the position of a target val
 - [ ] Swim In Rising Water
 - [ ] Alien Dictionary
 - [ ] Cheapest Flights Within K Stops
+
+---
+
+## Greedy
+
+A greedy algorithm: requires you to internally solve problems (optimally) to solve the higher scope problem. Examples being Dijkstra's algo, where you find the shortest path in a graph and Prim's or Krustal's algo where you find the minimum spanning trees in a graph.
+
+- [x] [Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)
+- [ ] Jump Game 2
+- [ ] Gas Station
+- [ ] Hand Of Straights
+- [ ] Merge Triplets To Form Target Triplet
+- [ ] Partition Labels
+- [ ] Valid Parenthesis String
+
+---
+
+## Heap
+
+An advanced tree based data structure used primarily for sorting and implementing priority queues
+
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ---
 
@@ -199,6 +208,25 @@ Binary search is a fast search algorithm that finds the position of a target val
 
 ---
 
+## Sliding Window
+
+Think of it like a window sliding across and array of elements, where the window is analysed against a given constraint, i.e. a sub array of elements within a larger array and you update a variable outside the loop.
+
+There are two types of this, one where the window reduces in size and one where it doesn`t
+
+<https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/>
+
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] Check N and It's Double Exist
+- [x] Maximum SubArray
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] Permutation In String
+- [ ] Sliding Window Maximum
+
+---
+
 ## Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
@@ -224,6 +252,8 @@ Binary search is a fast search algorithm that finds the position of a target val
 ---
 
 ## Tree
+
+<https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement>
 
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
@@ -253,15 +283,6 @@ Binary search is a fast search algorithm that finds the position of a target val
 
 ---
 
-## Heap
-
-An advanced tree based data structure used primarily for sorting and implementing priority queues
-
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
-
----
-
 ## Queue
 
 A linear structure with the first in, first out order. Imagine lining up for a ride, those at the front get on first.
@@ -273,6 +294,8 @@ A linear structure with the first in, first out order. Imagine lining up for a r
 - [ ] Task Scheduler
 - [ ] Design Twitter
 - [ ] Find Median From Data Stream
+
+---
 
 ## PEDAC
 

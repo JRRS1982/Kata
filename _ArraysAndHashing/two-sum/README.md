@@ -29,14 +29,14 @@ Only one valid answer exists.
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
-### Learning
+## Learning
 
-TLDR a Hash Map is used  
+TLDR a Hash Map is used
 
 These are the starting values
 [ 3, 2, 4], target = 6, map = {}
 
-There is nothing in the map already so we miss the if statement. We save to the map the key i.e. the value from the numbers array and its index (zero). 
+There is nothing in the map already so we miss the if statement. We save to the map the key i.e. the value from the numbers array and its index (zero).
   i
 [ 3, 2, 4], target = 6, difference = 3, map = {3: 0}
 
