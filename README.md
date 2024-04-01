@@ -25,9 +25,13 @@ Algorithms that are associated with manipulating Arrays. Reduce, Map, Filter are
 
 ### Backtracking
 
+"Every you have a problem that is solved by a series of decisions you may have to backtrack to another point and choose something else"
+
+It incrementally builds all candidates for the solution and abandon's / backtracks when the solution is not valid. It is a general graph search.
+
 <https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/>
 
-- [ ] Subsets
+- [x] [Subsets](https://leetcode.com/problems/subsets/description/)
 - [ ] [Combination Sum](<https://leetcode.com/problems/combination-sum/>)
 - [ ] Permutations
 - [ ] Subsets 2
