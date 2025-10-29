@@ -19,9 +19,10 @@ function topKFrequent(nums: number[], k: number): number[] {
   });
 
   return Object.entries(map)
-    .sort((a, b) => a[1] - b[1]) // sort by the frequency
+    .sort((a, b) => b[1] - a[1]) // sort by frequency descending
+    .slice(0, k) // select top k elements
     .map((num) => Number(num[0])) // return as a number
-    .slice(-k); // select top k elements
+    .sort((a, b) => a - b); // sort result in ascending order
 }
 
 // TODO implement this as a heap as well.

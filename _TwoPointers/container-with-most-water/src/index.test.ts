@@ -14,6 +14,6 @@ describe("index", () => {
   it("should pass test case three", () => {
     const input: number[] = [2, 3, 2];
     const result = index(input);
-    expect(result).toEqual(6);
+    expect(result).toEqual(4);
   });
 });

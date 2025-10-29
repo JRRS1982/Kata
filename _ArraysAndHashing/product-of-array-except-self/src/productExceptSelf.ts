@@ -28,7 +28,8 @@ export const productExceptSelf = (nums: number[]) => {
   // set the last value of the result array
   result[0] = cache;
 
-  return result;
+  // convert -0 to 0 to avoid test failures
+  return result.map((val) => (val === 0 ? 0 : val));
 };
 
 /**
